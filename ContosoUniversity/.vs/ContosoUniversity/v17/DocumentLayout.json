@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Mitch\\OneDrive\\Desktop\\College\\CTEC 135\\Module9\\razor-pages-one-DankMitch\\ContosoUniversity\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E94EA3EA-7460-4E5D-830E-D778D7500936}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\mitch\\onedrive\\desktop\\college\\ctec 135\\module9\\razor-pages-one-dankmitch\\contosouniversity\\contosouniversity\\contosouniversity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E94EA3EA-7460-4E5D-830E-D778D7500936}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\contosouniversity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94EA3EA-7460-4E5D-830E-D778D7500936}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\mitch\\onedrive\\desktop\\college\\ctec 135\\module9\\razor-pages-one-dankmitch\\contosouniversity\\contosouniversity\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94EA3EA-7460-4E5D-830E-D778D7500936}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94EA3EA-7460-4E5D-830E-D778D7500936}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\mitch\\onedrive\\desktop\\college\\ctec 135\\module9\\razor-pages-one-dankmitch\\contosouniversity\\contosouniversity\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94EA3EA-7460-4E5D-830E-D778D7500936}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94EA3EA-7460-4E5D-830E-D778D7500936}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\mitch\\onedrive\\desktop\\college\\ctec 135\\module9\\razor-pages-one-dankmitch\\contosouniversity\\contosouniversity\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94EA3EA-7460-4E5D-830E-D778D7500936}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94EA3EA-7460-4E5D-830E-D778D7500936}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\mitch\\onedrive\\desktop\\college\\ctec 135\\module9\\razor-pages-one-dankmitch\\contosouniversity\\contosouniversity\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94EA3EA-7460-4E5D-830E-D778D7500936}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E94EA3EA-7460-4E5D-830E-D778D7500936}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\mitch\\onedrive\\desktop\\college\\ctec 135\\module9\\razor-pages-one-dankmitch\\contosouniversity\\contosouniversity\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E94EA3EA-7460-4E5D-830E-D778D7500936}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -21,12 +41,77 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Mitch\\OneDrive\\Desktop\\College\\CTEC 135\\Module9\\razor-pages-one-DankMitch\\ContosoUniversity\\ContosoUniversity\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\Mitch\\OneDrive\\Desktop\\College\\CTEC 135\\Module9\\razor-pages-one-DankMitch\\ContosoUniversity\\ContosoUniversity\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "ContosoUniversity\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:24:07.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContosoUniversity",
+              "DocumentMoniker": "C:\\Users\\Mitch\\OneDrive\\Desktop\\College\\CTEC 135\\Module9\\razor-pages-one-DankMitch\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+              "RelativeDocumentMoniker": "ContosoUniversity\\ContosoUniversity.csproj",
+              "ToolTip": "C:\\Users\\Mitch\\OneDrive\\Desktop\\College\\CTEC 135\\Module9\\razor-pages-one-DankMitch\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+              "RelativeToolTip": "ContosoUniversity\\ContosoUniversity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T22:23:42.299Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Mitch\\OneDrive\\Desktop\\College\\CTEC 135\\Module9\\razor-pages-one-DankMitch\\ContosoUniversity\\ContosoUniversity\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Mitch\\OneDrive\\Desktop\\College\\CTEC 135\\Module9\\razor-pages-one-DankMitch\\ContosoUniversity\\ContosoUniversity\\Models\\Course.cs",
+              "RelativeToolTip": "ContosoUniversity\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:23:25.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\Mitch\\OneDrive\\Desktop\\College\\CTEC 135\\Module9\\razor-pages-one-DankMitch\\ContosoUniversity\\ContosoUniversity\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\Mitch\\OneDrive\\Desktop\\College\\CTEC 135\\Module9\\razor-pages-one-DankMitch\\ContosoUniversity\\ContosoUniversity\\Models\\Enrollment.cs",
+              "RelativeToolTip": "ContosoUniversity\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:23:02.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Mitch\\OneDrive\\Desktop\\College\\CTEC 135\\Module9\\razor-pages-one-DankMitch\\ContosoUniversity\\ContosoUniversity\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Mitch\\OneDrive\\Desktop\\College\\CTEC 135\\Module9\\razor-pages-one-DankMitch\\ContosoUniversity\\ContosoUniversity\\Models\\Student.cs",
+              "RelativeToolTip": "ContosoUniversity\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:22:32.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Mitch\\OneDrive\\Desktop\\College\\CTEC 135\\Module9\\razor-pages-one-DankMitch\\ContosoUniversity\\ContosoUniversity\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "ContosoUniversity\\Pages\\Index.cshtml",
@@ -39,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Mitch\\OneDrive\\Desktop\\College\\CTEC 135\\Module9\\razor-pages-one-DankMitch\\ContosoUniversity\\ContosoUniversity\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ContosoUniversity\\Pages\\Shared\\_Layout.cshtml",
@@ -47,8 +132,7 @@
               "RelativeToolTip": "ContosoUniversity\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T21:34:52.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T21:34:52.282Z"
             }
           ]
         }
